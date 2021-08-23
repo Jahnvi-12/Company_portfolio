@@ -1,0 +1,14 @@
+import React, { Component } from 'react'
+
+class Contact extends Component {
+    render() {
+        return (
+            <div>
+                <h1>Mail us at:</h1>
+                <a link href="abc@gmail.com">abc@gmail.com</a>
+            </div>
+        )
+    }
+}
+
+export default Contact
